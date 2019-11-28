@@ -24,6 +24,8 @@ h2{
 }
 .entete{
     background-color: rgb(87, 83, 83);
+    display: flex;
+    justify-content: right;
 }
 .claire{
     background-color: rgb(134, 133, 133);
@@ -37,8 +39,27 @@ h2{
     display: flex;
 }
 .prix{
-    margin-right: 30px;
+    margin-right: 50px;
+    display: flex;
+}
+.hot{
+    margin-right: 22px;
+}
+.Iced{
+    margin-right: 20px;
+}
+.Blended {
+    margin-right: 20px;
 }
 footer{
     display: none;
+}
+.ten{
+    margin-right: 25px;
+}
+.fifteen{
+    margin-right: 25px;
+}
+.zero{
+    margin-left: 15px;
 }
