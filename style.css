@@ -1,6 +1,7 @@
 header{
     background-color: aqua;
     height: 10vh;
+    text-align: center;
 }
 figure{
     background-color: blueviolet;
@@ -39,27 +40,27 @@ h2{
     display: flex;
 }
 .prix{
-    margin-right: 50px;
+    margin-right: 100px;
     display: flex;
 }
 .hot{
-    margin-right: 22px;
+    margin-right: 100px;
 }
 .Iced{
-    margin-right: 20px;
+    margin-right: 100px;
 }
 .Blended {
-    margin-right: 20px;
+    margin-right: 100px;
 }
 footer{
     display: none;
 }
 .ten{
-    margin-right: 25px;
+    margin-right: 102px;
 }
 .fifteen{
-    margin-right: 25px;
+    margin-right: 125px;
 }
 .zero{
-    margin-left: 15px;
+    margin-right: 25px;
 }
