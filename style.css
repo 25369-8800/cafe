@@ -11,10 +11,27 @@ main{
     height: 10vh;
 }
 section{
-    background-color: darkgreen;
-    height: 10vh;
+    width: 70%;
+    border: solid 2px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+h2{
+    width: 50%;
+    margin : auto;
+    text-align: center;
+    color: rosybrown;
+}
+.entete{
+    background-color: rgb(87, 83, 83);
+}
+.claire{
+    background-color: rgb(134, 133, 133);
+    height:  3vh;
+}
+.blanc{
+    height: 3vh;
 }
 footer{
-    background-color: darkviolet;
-    height: 10vh;
+    display: none;
 }
