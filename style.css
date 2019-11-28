@@ -1,0 +1,20 @@
+header{
+    background-color: aqua;
+    height: 10vh;
+}
+figure{
+    background-color: blueviolet;
+    height: 10vh;
+}
+main{
+    background-color: chocolate;
+    height: 10vh;
+}
+section{
+    background-color: darkgreen;
+    height: 10vh;
+}
+footer{
+    background-color: darkviolet;
+    height: 10vh;
+}
